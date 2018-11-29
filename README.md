@@ -1,2 +1,2 @@
 # cursoTypeScript
-Projeto feito aparti de curso TypeScrip do udemy
+Projetos feito a partir de curso TypeScrip do udemy
